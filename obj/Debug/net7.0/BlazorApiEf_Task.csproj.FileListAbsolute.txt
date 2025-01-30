@@ -1,0 +1,7 @@
+C:\Users\nicho\development\projects\OPF\Blazor\BlazorApiEf_Task\obj\Debug\net7.0\BlazorApiEf_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\development\projects\OPF\Blazor\BlazorApiEf_Task\obj\Debug\net7.0\BlazorApiEf_Task.AssemblyInfoInputs.cache
+C:\Users\nicho\development\projects\OPF\Blazor\BlazorApiEf_Task\obj\Debug\net7.0\BlazorApiEf_Task.AssemblyInfo.cs
+C:\Users\nicho\development\projects\OPF\Blazor\BlazorApiEf_Task\obj\Debug\net7.0\BlazorApiEf_Task.csproj.CoreCompileInputs.cache
+C:\Users\nicho\development\projects\OPF\Blazor\BlazorApiEf_Task\obj\Debug\net7.0\BlazorApiEf_Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicho\development\projects\OPF\Blazor\BlazorApiEf_Task\obj\Debug\net7.0\BlazorApiEf_Task.RazorAssemblyInfo.cache
+C:\Users\nicho\development\projects\OPF\Blazor\BlazorApiEf_Task\obj\Debug\net7.0\BlazorApiEf_Task.RazorAssemblyInfo.cs
